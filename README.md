@@ -1,0 +1,2 @@
+# vsd-rtl
+core training
