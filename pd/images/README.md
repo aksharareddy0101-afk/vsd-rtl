@@ -136,6 +136,6 @@ This lab gave me practical experience with the VSDBabySoC physical design flow u
 **Technology:** Sky130HD  
 **Tools:** OpenROAD, OpenSTA  
 ## author:**
-B.SANGATHRAM
+P.AKSHARA
 B.TECH III YEAR ECE
 ANURAG UNIVERSITY
